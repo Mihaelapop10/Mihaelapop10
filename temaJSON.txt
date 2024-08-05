@@ -1,0 +1,82 @@
+{
+  "catalog": {
+    "persoane": [
+      {
+        "id": "persoana1",
+        "nume": "MoldovanSimona",
+        "oras": "ClujNapoca",
+        "adresa": [
+          {
+            "strada": "principala",
+            "nr": "10",
+            "ap": "12"
+          }
+          ], 
+        "datedecontact": [
+          {
+            "contact": "0745321854",
+            "adresamail": "moldovansimona@gmail.com",
+            "skype": "simona10"
+          }
+          ]
+      },
+      {
+         "id": "persoana2",
+         "nume": "popescuangela",
+         "oras": "Timisoara",
+         "adresa": [
+           {
+             "strada": "Brates",
+             "nr": "12",
+             "ap": "13"
+           }
+           ],
+          "datedecontact": [
+            {
+              "contact": "0745824696",
+              "adresamail": "popescuangela@gmail.com",
+              "skype": "angela13"
+            }
+            ]
+           },
+           {
+          "id": "persoana3",
+          "nume": "CatinasAlina",
+          "oras": "Iasi",
+          "adresa": [
+            {
+              "strada": "Brates",
+              "nr": "5",
+              "ap": "7"
+            }
+            ],
+          "datedecontact": [
+            {
+              "contact": "074586214",
+              "adresademail": "catinasalina@gmail.com",
+              "skype": "alina7"
+            }
+            ]
+           },
+           {
+          "id":"persoana4",
+          "nume": "PopIoana",
+          "oras": "Bucuresti",
+          "adresa": [
+            {
+              "strada": "brancus",
+              "nr": "99",
+              "ap": "54"
+            }
+            ],
+          "datedecontact": [
+            {
+              "contact": "0742369988",
+              "adresademail": "ioanapop@gmail.com",
+              "skype": "ioana12"
+            }
+            ]
+           }
+         ]
+       }
+     }

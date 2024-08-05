@@ -1,0 +1,39 @@
+<persoane>
+    <id>Persoana1</id>
+    <nume>MoldovanSimona</nume>
+    <oras>ClujNapoca</oras>
+    <Adresa>Str.Principala,Nr.10,Ap.12</Adresa>
+    <Datedecontact>
+        <adresamail>moldovansimona@gmail.com</adresamail>
+        <contact>0743864523</contact>
+        <skype>Simona10</skype>
+    </Datedecontact>
+    <id>Persoana2</id>
+    <nume>PopescuAngela</nume>
+    <oras>Timisoara</oras>
+    <Adresa>Str.Brates,Nr.12,Ap.13</Adresa>
+    <Datedecontact>
+        <adresamail>popescuangela@gmail.com</adresamail>
+        <contact>074894562</contact>
+        <skype>angela13</skype>
+    </Datedecontact>
+    <id>Persoana3</id>
+    <nume>CatinasAlina</nume>
+    <oras>Iasi</oras>
+    <Adresa>Str.Brates,Nr.5,Ap7</Adresa>
+    <Datedecontact>
+        <adresamail>alinacatinas@gmail.com</adresamail>
+        <contact>074853458</contact>
+        <skype>alina7</skype>
+    </Datedecontact>
+    <id>Persoana4</id>
+    <nume>PopIoana</nume>
+    <oras>Bucuresti</oras>
+    <Adresa>Str.Brancus,Nr.99,Ap.54</Adresa>
+    <Datedecontact>
+        <adresademail>ioanapop@gmail.com</adresademail>
+        <contact>0744855324</contact>
+        <skype>Ioana12</skype>
+        
+    </Datedecontact>
+</persoane>

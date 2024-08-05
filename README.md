@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mihaelapop10
+- 👋 Hi, I’m Mihaela Pop
 - 👀 I’m interested in QA Testing
 - 🌱 I’m currently learning at GoIT Romania
 - 💞️ I’m looking to collaborate on projects for testing
